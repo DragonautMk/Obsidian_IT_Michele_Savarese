@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcf0f9a17226d13",
+        "id": "e73b3305a710aec4",
         "type": "tabs",
         "children": [
           {
-            "id": "30ad41406e4eaac2",
+            "id": "fb4be2c67899a713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Laravel"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -169,22 +165,25 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "30ad41406e4eaac2",
+  "active": "fb4be2c67899a713",
   "lastOpenFiles": [
-    "Laravel/Migrazioni di laravel.md",
     "Laravel.md",
+    "Laravel/CRUD.md",
+    "Livewire/CRUD.md",
+    "Livewire.md",
+    "Livewire/Componenti i Livewire.md",
+    "Livewire/Properties.md",
+    "Livewire/Actions.md",
+    "Visual Studio Code.md",
+    "Laravel/Comandi di Laravel.md",
+    "PHP.md",
+    "Laravel/Migrazioni di laravel.md",
     "Laravel/Modelli Laravel.md",
     "Laravel/Components Laravel.md",
     "Benvenuto nel Vault di Misa, sezione informatica.md",
-    "Visual Studio Code.md",
-    "Laravel/Comandi di Laravel.md",
     "Laravel/Quickstart LARAVEL.md",
-    "Livewire.md",
-    "Livewire/Actions.md",
     "HTML.md",
-    "PHP.md",
     "Javascript.md",
-    "Livewire/Properties.md",
     "Laravel/Tag di Laravel.md",
     "Livewire",
     "Bootstrap/Classi/Classi di spaziatura.md",
@@ -195,8 +194,6 @@
     "CSS.md",
     "Bootstrap/Classi di bootstrap.md",
     "Bootstrap/Grid system.md",
-    "Bootstrap/Componenti.md",
-    "Bootstrap/Classi/Classi di testo.md",
     "Bootstrap/Classi",
     "Bootstrap",
     "Laravel",

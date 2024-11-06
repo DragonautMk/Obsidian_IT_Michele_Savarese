@@ -14,5 +14,8 @@ Richiamare componente livewire
 <livewire:nomecomponente /> o 
 @livewire('nomecomponente')
 
+
 lnseriamo il codice del componente preso dalla documentazione app/livewire, nel relativo file. Per convenzione la funzione render resta per ultima. Le variabili (meglio dette [[Properties]]) sono automaticamente disponibili, quindi è possibile richiamarle con {{$nome}}. 
-Queste vengono utilizzate nelle funzioni (dette [[Actions]])
+Queste vengono utilizzate nelle funzioni (dette [[Actions]]).
+
+E' possibile realizzare un [[Livewire/CRUD|CRUD]] usando limewire per risparmiare tempo rispetto ai form
