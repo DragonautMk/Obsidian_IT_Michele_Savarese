@@ -1,9 +1,14 @@
 Quì pubblicherò le mie conoscenze e competenza per trovarle facilmente e memorizzarle.
+IDE
+[[Visual Studio Code]]
 
-Frontend, [[HTML]], [[CSS]], [[Bootstrap]], [[Javascript]], [[Livewire]]
+Front End, [[HTML]], [[CSS]], [[Bootstrap]], [[Javascript]], [[Livewire]]
 Back End
 [[PHP]]
 
+Database:
+MySql
 //
 
-Prendi appunti, [[Quickstart LARAVEL]], o prova a [importare](https://help.obsidian.md/Plugins/Importer) qualcosa!
+Avvio di progetto:
+[[Quickstart LARAVEL]]

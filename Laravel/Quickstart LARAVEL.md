@@ -22,3 +22,5 @@ npm run dev (avviare npm)
 php artisan serve (avviare selfhost:
 
 configurare rotte parametriche
+
+php artisan storage:link per linkare le immagini del database

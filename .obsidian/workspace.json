@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad12459aabeaeae4",
+        "id": "1dcf0f9a17226d13",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0d4f71090e4c9a",
+            "id": "30ad41406e4eaac2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Laravel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laravel"
             }
           }
         ]
@@ -165,21 +169,26 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "7a0d4f71090e4c9a",
+  "active": "30ad41406e4eaac2",
   "lastOpenFiles": [
+    "Laravel/Migrazioni di laravel.md",
+    "Laravel.md",
+    "Laravel/Modelli Laravel.md",
+    "Laravel/Components Laravel.md",
     "Benvenuto nel Vault di Misa, sezione informatica.md",
-    "HTML.md",
+    "Visual Studio Code.md",
+    "Laravel/Comandi di Laravel.md",
+    "Laravel/Quickstart LARAVEL.md",
     "Livewire.md",
-    "Limiwire/Actions.md",
+    "Livewire/Actions.md",
+    "HTML.md",
     "PHP.md",
     "Javascript.md",
-    "Limiwire/Properties.md",
+    "Livewire/Properties.md",
     "Laravel/Tag di Laravel.md",
-    "Limiwire",
-    "Laravel.md",
+    "Livewire",
     "Bootstrap/Classi/Classi di spaziatura.md",
     "Laravel/Rotte parametriche.md",
-    "Laravel/Quickstart LARAVEL.md",
     "Bootstrap.md",
     "Senza nome.md",
     "javascirpt.md",
@@ -189,8 +198,6 @@
     "Bootstrap/Componenti.md",
     "Bootstrap/Classi/Classi di testo.md",
     "Bootstrap/Classi",
-    "Laravel/Comandi di Laravel.md",
-    "Laravel/Components Laravel.md",
     "Bootstrap",
     "Laravel",
     "Obsidian_It",
