@@ -1,9 +1,9 @@
 Comando creazione progetto da git bash:
 laravel new project_name
 
-npm i bootstrap (installa componenti bootstrap) [[Comandi di Laravel]]
+npm i bootstrap (installa componenti bootstrap)
 
-Cartella [[Components Laravel]] nella view 
+Cartella components nella view 
 Layout con {{$slot}} al centro di layout
 componenti navbar e footer da inserire in layout
 
@@ -21,4 +21,4 @@ aggiustare i file rimuovendo le dipendenze di tailwind, aggiungere @import 'boot
 npm run dev (avviare npm)
 php artisan serve (avviare selfhost:
 
-configurare [[Rotte parametriche]]
+configurare rotte parametriche

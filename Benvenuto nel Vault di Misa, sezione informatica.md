@@ -1,9 +1,8 @@
 Quì pubblicherò le mie conoscenze e competenza per trovarle facilmente e memorizzarle.
 
-Frontend, [[HTML]], [[CSS]], [[Bootstrap]], [[Javascript]]
-
+Frontend, [[HTML]], [[CSS]], [[Bootstrap]], [[Javascript]], [[Livewire]]
 Back End
-
+[[PHP]]
 
 //
 
