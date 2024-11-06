@@ -1,0 +1,2 @@
+**Hypertext Markup Language** (**HTML**), linguaggio standard di produzione per lo scheletro e il contenuto dei city web. Io ho studiato la versione 5.
+L'html è abbinato al [[CSS]] permette la realizzazione di siti web graficamente appetibili.

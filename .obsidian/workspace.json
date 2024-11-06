@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe1acd3612eb90c",
+        "id": "3c4dd5479b0743e8",
         "type": "tabs",
         "children": [
           {
-            "id": "7f037e2a14cb213e",
+            "id": "967eb5623e39f74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benvenuto nel Vault di Misa, sezione informatica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benvenuto nel Vault di Misa, sezione informatica"
+            }
+          },
+          {
+            "id": "dde45f2a386efe5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML"
+            }
+          },
+          {
+            "id": "4afdb15a74f97054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benvenuto nel Vault di Misa, sezione informatica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benvenuto nel Vault di Misa, sezione informatica"
+            }
+          },
+          {
+            "id": "d487ebf7194b6954",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,7 +59,8 @@
               "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,22 +208,31 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "7f037e2a14cb213e",
+  "active": "d487ebf7194b6954",
   "lastOpenFiles": [
-    "Bootstrap/Pezzi comunemente usati.md",
-    "Bootstrap/Classi/Classi di testo.md",
-    "Bootstrap/Classi/Classi di spazio.md",
+    "Bootstrap.md",
+    "Limewire.md",
+    "Laravel.md",
+    "PHP.md",
+    "Laravel/Quickstart LARAVEL.md",
+    "Senza nome.md",
+    "Benvenuto nel Vault di Misa, sezione informatica.md",
+    "javascirpt.md",
+    "Javascript.md",
+    "HTML.md",
+    "CSS.md",
+    "Bootstrap/Classi di bootstrap.md",
     "Bootstrap/Grid system.md",
+    "Bootstrap/Componenti.md",
+    "Bootstrap/Classi/Classi di testo.md",
+    "Bootstrap/Classi/Classi di spaziatura.md",
     "Bootstrap/Classi",
     "Laravel/Rotte parametriche.md",
     "Laravel/Comandi di Laravel.md",
     "Laravel/Components Laravel.md",
-    "Limewire.md",
-    "Quickstart LARAVEL.md",
     "Bootstrap",
     "Laravel",
     "Obsidian_It",
-    "Nuova cartella",
-    "Benvenuto nel Vault di Misa, sezione informatica.md"
+    "Nuova cartella"
   ]
 }
