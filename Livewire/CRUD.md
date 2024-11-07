@@ -12,7 +12,10 @@ public function create(){
 
 }
 
+Nei form di submit la direttiva livewire che si usa è: wire:submit="nomedellafunzione"
 
+Nella funzione store se vogliamo avere un messaggio di conferma di avvenuto inserimento dobbiamo inserire: 
+        session()->flash('success','Inserito correttamente nel database');
 2: Reed
 --
 3: Update

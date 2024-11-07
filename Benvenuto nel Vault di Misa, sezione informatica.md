@@ -10,5 +10,9 @@ Database:
 MySql
 //
 
+[[Intelligenza Artificiale]]:
+KREA - generatore di immagini
+https://www.scenario.com Permette di sviluppare il materiale grafico dei videogiochi con intelligenza artificiale
+
 Avvio di progetto:
 [[Quickstart LARAVEL]]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e73b3305a710aec4",
+        "id": "ba6158ddb8f4feb8",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4be2c67899a713",
+            "id": "cf027c0034107f63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Livewire/CRUD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "CRUD"
             }
           }
         ]
@@ -165,13 +169,16 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "fb4be2c67899a713",
+  "active": "cf027c0034107f63",
   "lastOpenFiles": [
-    "Laravel.md",
-    "Laravel/CRUD.md",
+    "Livewire/Componenti i Livewire.md",
     "Livewire/CRUD.md",
     "Livewire.md",
-    "Livewire/Componenti i Livewire.md",
+    "Bootstrap/Grid system.md",
+    "Benvenuto nel Vault di Misa, sezione informatica.md",
+    "Intelligenza Artificiale.md",
+    "Laravel.md",
+    "Laravel/CRUD.md",
     "Livewire/Properties.md",
     "Livewire/Actions.md",
     "Visual Studio Code.md",
@@ -180,7 +187,6 @@
     "Laravel/Migrazioni di laravel.md",
     "Laravel/Modelli Laravel.md",
     "Laravel/Components Laravel.md",
-    "Benvenuto nel Vault di Misa, sezione informatica.md",
     "Laravel/Quickstart LARAVEL.md",
     "HTML.md",
     "Javascript.md",
@@ -192,8 +198,6 @@
     "Senza nome.md",
     "javascirpt.md",
     "CSS.md",
-    "Bootstrap/Classi di bootstrap.md",
-    "Bootstrap/Grid system.md",
     "Bootstrap/Classi",
     "Bootstrap",
     "Laravel",
