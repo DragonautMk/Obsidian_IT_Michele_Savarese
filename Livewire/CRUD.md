@@ -26,5 +26,12 @@ Puoi controllare campi in real time evitando di inserire input con il metodo .li
 --
 3: Update
 --
+
+Per passare gli elementi alla sezione edit è necessario utilizzare la funzione mount().
+La funzione mount va inserita prima delle funzione render, ma infondo alle funzioni. Quindi dopo la funzione mount ci sarà sempre e solo la funzione render.
+
+
+Dopo il session success non dobbiamo richiedere l'edit dei dati
 4: Delete
 --
+

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livewire.md",
+                "file": "Livewire/CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Livewire"
+              "title": "CRUD"
             }
           }
         ],
@@ -228,15 +228,16 @@
   },
   "active": "64a4006fc780ff4b",
   "lastOpenFiles": [
+    "Livewire/Componenti i Livewire.md",
+    "Livewire.md",
+    "Bootstrap/Componenti.md",
     "Benvenuto nel Vault di Misa, sezione informatica.md",
     "Livewire/CRUD.md",
-    "Livewire.md",
     "Intelligenza Artificiale.md",
     "Javascript.md",
     "AI/Github Coopilot.md",
     "AI/ChatGPT.md",
     "AI",
-    "Livewire/Componenti i Livewire.md",
     "Bootstrap/Grid system.md",
     "Laravel.md",
     "Laravel/CRUD.md",
@@ -255,7 +256,6 @@
     "Bootstrap/Classi/Classi di spaziatura.md",
     "Laravel/Rotte parametriche.md",
     "Bootstrap.md",
-    "Senza nome.md",
     "Bootstrap/Classi",
     "Bootstrap",
     "Laravel",
