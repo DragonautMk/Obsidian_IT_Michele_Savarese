@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Quickstart LARAVEL.md",
+                "file": "Laravel/Fortify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quickstart LARAVEL"
+              "title": "Fortify"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "c1c6a4ce8d406ae4",
   "lastOpenFiles": [
-    "Laravel/Fortify.md",
     "Laravel/Quickstart LARAVEL.md",
+    "Laravel/Fortify.md",
     "Laravel.md",
     "Intelligenza Artificiale.md",
     "Javascript.md",
