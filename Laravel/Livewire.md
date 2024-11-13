@@ -1,5 +1,5 @@
-Livewire è un framwork di php che ti permette di utilizzare il php nel lato frontend, quindi non è necessario integrare il javascript al suo posto. Livewire permette di realizzare un FullStack php creando one page application e permettendo il controllo degli elementi senza inviare dati.
-Può controllare campi in real time. Vedi [[Livewire/CRUD|CRUD]]
+Livewire è un framwork di php di [[Laravel]] che ti permette di utilizzare il php nel lato frontend, quindi non è necessario integrare il javascript al suo posto. Livewire permette di realizzare un FullStack php creando one page application e permettendo il controllo degli elementi senza inviare dati.
+Può controllare campi in real time. Vedi [[Laravel/Livewire/CRUD|CRUD]]
 
 ## Prerequisites
 
@@ -19,4 +19,4 @@ Richiamare componente livewire
 lnseriamo il codice del componente preso dalla documentazione app/livewire, nel relativo file. Per convenzione la funzione render resta per ultima. Le variabili (meglio dette [[Properties]]) sono automaticamente disponibili, quindi è possibile richiamarle con {{$nome}}. 
 Queste vengono utilizzate nelle funzioni (dette [[Actions]]).
 
-E' possibile realizzare un [[Livewire/CRUD|CRUD]] usando limewire per risparmiare tempo rispetto ai form.
+E' possibile realizzare un [[Laravel/Livewire/CRUD|CRUD]] usando limewire per risparmiare tempo rispetto ai form.

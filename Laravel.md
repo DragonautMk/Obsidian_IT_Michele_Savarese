@@ -6,4 +6,6 @@ Usando le [[Rotte parametriche]] è possibile creare dei collegamenti generici t
 Usando i [[Tag di Laravel]] possiamo usare varie funzione, ad esempio richiamare una variabile.
 I [[Modelli Laravel]] permettono al database di funzionare correttamente registrando le colonne relative ad un dato modello.
 Le [[Migrazioni di laravel]] permettono di gestire il database.
-Utilizzando il [[Laravel/CRUD|CRUD]] è possibile creare una gestione di un database in tutte le sua parti
+Utilizzando il [[Laravel/CRUD|CRUD]] è possibile creare una gestione di un database in tutte le sua parti.
+
+Laravel permette di utilizzare  [[Livewire]] per creare one page application e [[Fortify]] per gestire l'autenticazione.
