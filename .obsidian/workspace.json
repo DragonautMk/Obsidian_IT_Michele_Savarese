@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Fortify.md",
+                "file": "Laravel/Quickstart LARAVEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fortify"
+              "title": "Quickstart LARAVEL"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "c1c6a4ce8d406ae4",
   "lastOpenFiles": [
+    "Laravel/Livewire.md",
     "Laravel/Quickstart LARAVEL.md",
     "Laravel/Fortify.md",
     "Laravel.md",
@@ -178,7 +179,6 @@
     "Javascript.md",
     "Benvenuto nel Vault di Misa, sezione informatica.md",
     "PHP.md",
-    "Laravel/Livewire.md",
     "Laravel/Livewire/CRUD.md",
     "AI/Github Coopilot.md",
     "AI/ChatGPT.md",

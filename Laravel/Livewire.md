@@ -8,7 +8,8 @@ Before we start, make sure you have the following installed:
 - Laravel version 10 or later
 - PHP version 8.1 or later
 
-composer require livewire/livewire (otterremo 2 file, 1 nella view nella cartella livewire, l'altro in app/livewire)
+composer require livewire/livewire 
+(otterremo 2 file, 1 nella view nella cartella livewire, l'altro in app/livewire)
 (Make sure AlpineJS isn't already installed)
 
 Richiamare componente livewire
