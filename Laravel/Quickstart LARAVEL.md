@@ -7,8 +7,6 @@ composer install
 1) cp .env.example .env
 2) php artisan key:generate
 
-
-
 npm i bootstrap (installa componenti bootstrap)
 
 Cartella components nella view 
