@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootstrap.md",
+                "file": "Bootstrap/Classi/Classi di spaziatura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap"
+              "title": "Classi di spaziatura"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "c1c6a4ce8d406ae4",
   "lastOpenFiles": [
+    "Bootstrap.md",
     "CSS.md",
     "Laravel/Fortify.md",
     "Laravel/Quickstart LARAVEL.md",
@@ -198,7 +199,6 @@
     "HTML.md",
     "Laravel/Tag di Laravel.md",
     "Laravel/Livewire",
-    "Bootstrap/Classi/Classi di spaziatura.md",
     "Bootstrap/Classi",
     "Bootstrap",
     "Laravel",
