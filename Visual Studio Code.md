@@ -9,3 +9,5 @@ Nasconde i terminali: ctrl+j
 
 Comandi da terminale:
 clear (pulisce il termina)
+
+[[Snippet bootstrap]]

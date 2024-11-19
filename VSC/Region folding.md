@@ -1,0 +1,1 @@
+Utilizzando ctrl+shift+p si possono creare delle region per gestire al meglio il testo.
