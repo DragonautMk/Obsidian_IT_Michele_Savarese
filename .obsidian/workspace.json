@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootstrap/Classi/Classi di spaziatura.md",
+                "file": "Bootstrap/Classi/Border.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classi di spaziatura"
+              "title": "Border"
             }
           }
         ]
@@ -172,6 +172,10 @@
   "active": "d611c6d603d92409",
   "lastOpenFiles": [
     "Bootstrap/Classi di bootstrap.md",
+    "Bootstrap.md",
+    "Bootstrap/Classi/Border.md",
+    "Bootstrap/Classi/Classi di testo.md",
+    "Bootstrap/Classi/Classi di spaziatura.md",
     "VSC/Better comments.md",
     "Senza nome.canvas",
     "VSC/Region folding.md",
@@ -179,11 +183,8 @@
     "Snippet.md",
     "Laravel.md",
     "VSC/Snippet bootstrap.md",
-    "Bootstrap/Classi/Classi di spaziatura.md",
     "VSC",
-    "Bootstrap/Classi/Classi di testo.md",
     "Laravel/Quickstart LARAVEL.md",
-    "Bootstrap.md",
     "Benvenuto nel Vault di Misa, sezione informatica.md",
     "CSS.md",
     "CSS/Specificity.md",

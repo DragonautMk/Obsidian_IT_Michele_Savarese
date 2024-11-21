@@ -23,7 +23,7 @@ py-1,2,3,4,5 (padding y positivo da 1 a 5)
 6. **`justify-content-center`**
     
     - Centra tutti gli elementi della navbar orizzontalmente.
-7. **`justify-content-between`**
+7. **`  justify-content-between`**
     
     - Distribuisce gli elementi lungo la barra con spazio tra di essi.
 8. **`justify-content-around`**
