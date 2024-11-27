@@ -8,6 +8,7 @@ Back End
 
 Database:
 MySql
+[[Comandi mysql in laravel]]
 //
 
 [[Intelligenza Artificiale]]:

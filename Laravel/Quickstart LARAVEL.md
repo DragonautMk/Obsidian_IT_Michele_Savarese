@@ -27,12 +27,19 @@ php artisan db:seed
 php artisan migrate
 (avviare creazione del database, fare yes per creare) 
 
-
+(Se hai installato npm e famiglia)
 npm run dev (avviare npm)
+
 php artisan serve (avviare selfhost:
+
+(se hai installato la queue di resize)
+php artisan queue:work
 
 configurare rotte parametriche
 
 php artisan storage:link per linkare le immagini del database
 
 Installare [[Fortify]]
+
+
+google_credential.json : Inserire nella root, inserire in gitignore
