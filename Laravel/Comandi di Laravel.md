@@ -2,6 +2,8 @@ Creare Controller:
 php artisan make:controller PublicController
 
 Linkare immagini nella public:
+php artisan route:clear 
+pulisce le route
 php artisan storage:link
 
 Creare componenti per crud
