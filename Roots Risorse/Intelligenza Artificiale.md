@@ -7,6 +7,8 @@ ES: [[ChatGPT]]
 Deboli:
 Le AI deboli sono progettati per compiti specifici, non comprendono o ne sono coscienti di cosa fanno, ad esempio una CPU delle scacchi.
 
+Forti:
+Teoricamente ha la capacità di comprender, ragionare e avere una consapevolezza simile a quella umana.
 Tipi di apprendimento
 --
 Il modello apprende attraverso prove ed errori ricevendo ricompense e punizioni. 

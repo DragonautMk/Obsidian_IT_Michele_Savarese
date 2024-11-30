@@ -11,3 +11,6 @@ Comandi da terminale:
 clear (pulisce il termina)
 
 [[Snippet bootstrap]]
+[[Better comments]]
+[[Snippet]]
+[[Region folding]]

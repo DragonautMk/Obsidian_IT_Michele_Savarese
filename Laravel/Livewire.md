@@ -1,6 +1,6 @@
 Livewire è un framwork di php di [[Laravel]] che ti permette di utilizzare il php nel lato frontend, quindi non è necessario integrare il javascript al suo posto. Livewire permette di realizzare un FullStack php creando one page application e permettendo il controllo degli elementi senza inviare dati.
 Può controllare campi in real time. Vedi [[Laravel/Livewire/CRUD|CRUD]]
-
+Utilizzando i suoi [[Componenti i Livewire]] è possibili risparmiare tempo e gestire più efficacemente le integrazioni
 ## Prerequisites
 
 Before we start, make sure you have the following installed:
