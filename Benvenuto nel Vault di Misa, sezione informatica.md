@@ -5,6 +5,7 @@ Questo vault è realizzato con [[Obsidian]] che permette un'archiviazione delle 
 IDE
 [[Visual Studio Code]]
 
+[[Introduzione alla programmazione]]
 Front End, [[HTML]], [[CSS]], [[Bootstrap]], [[Javascript]], [[Livewire]]
 Back End
 [[PHP]]

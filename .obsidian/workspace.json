@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5a1e187e52fde56",
+            "id": "40370e4a913f59fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roots Risorse/Visual Studio Code.md",
+                "file": "Programmazione/Introduzione alla programmazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual Studio Code"
+              "title": "Introduzione alla programmazione"
             }
           },
           {
-            "id": "810c766d09cf1d11",
+            "id": "affc1174c01ac715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roots Risorse/PHP.md",
+                "file": "Programmazione/Javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP"
-            }
-          },
-          {
-            "id": "2dd6ac72c80c5f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roots Risorse/Visual Studio Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visual Studio Code"
+              "title": "Javascript"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,14 +184,20 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "b59c4d2b7d8ce62b",
+  "active": "affc1174c01ac715",
   "lastOpenFiles": [
+    "Programmazione/Convenzioni di nomenclatura.md",
+    "Programmazione/Introduzione alla programmazione.md",
+    "Programmazione/Javascript.md",
+    "Programmazione/Javascritp.md",
+    "Benvenuto nel Vault di Misa, sezione informatica.md",
+    "Programmazione/Javascript",
+    "Roots Risorse/Visual Studio Code.md",
+    "Programmazione",
     "Roots Risorse/Risorse Utili.md",
     "Roots Risorse/PHP.md",
-    "Roots Risorse/Visual Studio Code.md",
     "Roots Risorse/Intelligenza Artificiale.md",
     "Roots Risorse",
-    "Benvenuto nel Vault di Misa, sezione informatica.md",
     "Roots Risorse/Obsidian.md",
     "Obsidian/Basic Formatting.md",
     "Obsidian",
@@ -229,13 +221,7 @@
     "Senza nome.canvas",
     "VSC/Snippet bootstrap.md",
     "VSC",
-    "Roots Risorse/CSS.md",
-    "CSS/Specificity.md",
     "CSS",
-    "Bootstrap/Componenti.md",
-    "Laravel/Fortify.md",
-    "AI",
-    "Laravel/Livewire",
-    "Bootstrap/Classi"
+    "AI"
   ]
 }

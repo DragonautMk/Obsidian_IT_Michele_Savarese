@@ -6,7 +6,6 @@ Cerca nei file: shift+p
 Cerca nei comandi: ctrl+shift+p
 Nasconde i terminali: ctrl+j
 
-
 Comandi da terminale:
 clear (pulisce il termina)
 
